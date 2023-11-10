@@ -1,0 +1,18 @@
+repo_name: dai/game-off-2012
+report_id: 80dc653db971b47ad1510342852fa563
+repo_type: Public
+timestamp: '2023-11-10T09:02:49+00:00'
+requested_by: leereilly
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
